@@ -1,0 +1,10 @@
+{
+  "name": "vaporeware",
+  "alias": "vaporware.jayfallon.dev",
+  "env": {
+    "STATIC_KEY": "@statickey"
+  },
+  "github": {
+    "enabled": true
+  }
+}
