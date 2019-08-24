@@ -1,6 +1,6 @@
 {
   "name": "vaporeware",
-  "alias": "vaporware.jayfallon.dev",
+  "alias": ["vaporware.jayfallon.dev", "vaporware.jayfallon.net"],
   "env": {
     "STATIC_KEY": "@statickey"
   },
