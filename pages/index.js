@@ -6,8 +6,6 @@ import { STATIC_KEY } from '../config';
 const OptInForm = () => {
   const [state, submit] = useForm(STATIC_KEY);
 
-  console.log(STATIC_KEY);
-
   if (state.succeeded) {
     return (
       <p className="pb-3 font-bold text-gray-800 text-lg">
